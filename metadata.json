@@ -1,0 +1,7 @@
+{
+  "name": "Family Quiz Pro Sync",
+  "description": "A real-time synchronized family quiz app using Firebase, featuring Admin controls and live player buzzers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
